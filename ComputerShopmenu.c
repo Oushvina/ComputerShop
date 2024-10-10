@@ -51,14 +51,12 @@ int main() {
                 UserMenu();
                 break;
             case 3:
-<<<<<<< HEAD
                 
                 payment_processing_system();
                 break;
             case 4:
                 
                 after_sales_service_system();
-=======
                 clear_screen();
                 // Redirect to the Order Management menu
                 order_management_menu();
@@ -66,7 +64,6 @@ int main() {
             case 4:
                 clear_screen();
                 payment_processing_system();
->>>>>>> c5924686c7d38696bf97b61b1b3cb1462a762978
                 break;
             case 5:
                 clear_screen();
